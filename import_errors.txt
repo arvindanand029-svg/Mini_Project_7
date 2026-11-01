@@ -1,0 +1,3 @@
+Rejected record 3: Marks must be between 0 and 100.
+Rejected record 4: Missing required field 'name'.
+Rejected record 5: Duplicate student ID: S101
